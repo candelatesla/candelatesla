@@ -90,10 +90,10 @@ Previously, I completed my B.Tech in **Information Technology** with Honors in *
 
 ### 📜 Licenses & Certifications
 
-* [cite_start]![Google Cloud](https://img.shields.io/badge/Google_Cloud-Career_Practitioner-4285F4?style=flat-square&logo=google-cloud&logoColor=white) **Google Cloud Career Practitioners Pathway** 
-* [cite_start]![AWS](https://img.shields.io/badge/AWS-Generative_AI_Foundations-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Academy Generative AI Foundations** 
-* ![n8n](https://img.shields.io/badge/n8n-Level_1_Certification-EA4B71?style=flat-square&logo=n8n&logoColor=white) **n8n Workflow Automation Certification**
-* [cite_start]![LinkedIn](https://img.shields.io/badge/LinkedIn_Learning-AI_for_Project_Management-0077B5?style=flat-square&logo=linkedin&logoColor=white) **AI for Project Management** 
+* ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Career_Practitioner-4285F4?style=flat-square&logo=google-cloud&logoColor=white) **Google Cloud Career Practitioners Pathway** 
+* ![AWS](https://img.shields.io/badge/AWS-Generative_AI_Foundations-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **AWS Academy Generative AI Foundations** 
+* ![n8n](https://img.shields.io/badge/n8n-Certification-EA4B71?style=flat-square&logo=n8n&logoColor=white) **n8n Workflow Automation Certification**
+* ![LinkedIn](https://img.shields.io/badge/LinkedIn_Learning-AI_for_Project_Management-0077B5?style=flat-square&logo=linkedin&logoColor=white) **AI for Project Management** 
   
 ---
 
