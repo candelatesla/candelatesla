@@ -1,19 +1,52 @@
 # Hi there, I'm Yash Chetan Doshi! 👋
 
-[cite_start]I am a Master's student in **Management Information Systems** at **Texas A&M University** (Mays Business School)[cite: 4, 5]. I am passionate about bridging the gap between technical engineering and business strategy.
+I am a Master's student in **Management Information Systems** at **Texas A&M University** (Mays Business School). I am passionate about bridging the gap between technical engineering and business strategy.
 
-Previously, I completed my B.Tech in Information Technology with Honors in **DevOps** at **D.J. [cite_start]Sanghvi College of Engineering**, graduating with a 3.96 GPA[cite: 7, 8].
+Previously, I completed my B.Tech in **Information Technology** with Honors in **DevOps** at **D.J. Sanghvi College of Engineering**, graduating with a 3.96 GPA.
+
+🚀 **Actively seeking Internship/Co-op roles for Summer 2026 in Data Analysis/Science, AI, and Business Analysis.**
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/15sDXTtgNUDgGpgtGpTUG2tsTTyXpNJVn/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄_Resume-Download-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashdoshi8">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
 ### 🔭 I'm currently working on...
-* **Advanced Data Management & MIS Project Management** at Texas A&M[cite: 6].
-* [cite_start]Researching **Explainable AI (XAI)** for healthcare applications[cite: 52, 53].
+* **Student Assistant** at Texas A&M.
+* **Events Coordinator** at Business Information Technology Students (BITS) TAMU.
+  
+---
 
 ### 💼 Professional Experience
-* [cite_start]**Data Analyst Intern @ Acma Computers:** Automated data cleaning (15% efficiency boost) and built Python/SQL dashboards[cite: 11, 12, 13].
-* **Software Developer Intern @ C-DAC:** Built a virtual science simulator using ReactJS & Rive for 2M+ students[cite: 21, 22, 23].
-* [cite_start]**Business Development Intern @ ROI Institute:** Generated leads and managed client accounts[cite: 26, 27].
+
+* **Data Analyst Intern @ Acma Computers:** Automated data cleaning (15% efficiency boost) and built Python/SQL dashboards.
+* **Software Developer Intern @ C-DAC:** Built a virtual science simulator using ReactJS & Rive for 2M+ students.
+* **Business Development Intern @ ROI Institute:** Generated leads and managed client accounts.
+
+---
+
+### 🏆 Leadership & Extracurriculars
+
+* **Marketing Head, Computer Society of India (DJSCE):** Led a team of 80+, managed a budget of **₹12,00,000**, and secured **₹8,00,000** in sponsorships for major tech events.
+* **Placement Coordinator, DJSCE:** Managed recruitment for 600+ students and coordinated with **125+ companies** for campus drives.
+* **Marketing Head, DJS Express:** Secured **₹1,00,000+** in sponsorship and launched the college’s first monthly magazine.
+
+---
+
+### 📜 Publications & Research
+
+* **[Interpretable Machine Learning in Healthcare – An XAI Approach](https://www.linkedin.com/in/yashdoshi8/overlay/1750089808670/single-media-viewer/?type=DOCUMENT&profileId=ACoAADk1mBsBaP3tyjNDk63VVJSVnG2LiEUh8qM)**
+    * *2nd International Conference on Multimodal Agentic AI (ICMAAI-25) (Publication Forthcoming)*
+* **[Revolutionizing Anxiety Treatment: AR in Exposure Therapy](https://ieeexplore.ieee.org/document/10960229)**
+    * *IEEE International Conference on AI Trends (Published in IEEE Xplore)*
+* **[Comparison of YOLO Models for Object Detection](https://kuey.net/index.php/kuey/article/view/7025)**
+    * *Educational Administration: Theory and Practice (Scopus Indexed)*
 
 ---
 
@@ -34,6 +67,7 @@ Previously, I completed my B.Tech in Information Technology with Honors in **Dev
 **Tools & Cloud:**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
@@ -47,12 +81,6 @@ Previously, I completed my B.Tech in Information Technology with Honors in **Dev
 
 ---
 
-### 📜 Recent Publications
-* [cite_start]**Interpretable Machine Learning in Healthcare** (ICMAAI-25)[cite: 52].
-* **AR in Exposure Therapy for Anxiety** (IEEE Xplore)[cite: 55, 58].
-* [cite_start]**YOLO Models for Parking Spot Detection** (Scopus Indexed)[cite: 59, 61].
-
----
 
 ### 🤝 Connect with me
 <p align="left">
