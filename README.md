@@ -68,9 +68,9 @@ Previously, I completed my B.Tech in **Information Technology** with Honors in *
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-5C3EE8?style=for-the-badge&logo=langraph&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-5C3EE8?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-5C3EE8?style=for-the-badge&logo=crewai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-F24E1E?style=for-the-badge&logo=langraph&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-EA4B81?style=for-the-badge&logo=crewai&logoColor=white)
 
 **Tools, Cloud & Visualization:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
