@@ -100,7 +100,7 @@ Previously, I completed my B.Tech in **Information Technology** with Honors in *
 ### 📊 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=candelatesla&show_icons=true&theme=radical" height="180" alt="Yash's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candelatesla&layout=compact&theme=radical" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candelatesla&layout=compact&theme=radical" height="180" alt="Yash's Top Languages" />
 </div>
 
 ---
