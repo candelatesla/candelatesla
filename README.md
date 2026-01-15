@@ -21,7 +21,7 @@ Previously, I completed my B.Tech in **Information Technology** with Honors in *
 ---
 
 ### 🔭 I'm currently working as...
-* **Student Assistant** at Texas A&M's International Student & Scholar Services (ISSS).
+* **Full Stack Developer** at Texas A&M's Institute for Early Childhood Development & Education.
 * **Events Coordinator** at Business Information Technology Students (BITS) Club TAMU.
   
 ---
