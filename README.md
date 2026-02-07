@@ -121,3 +121,5 @@ Previously, I completed my B.Tech in **Information Technology** with Honors in *
 <a href="https://www.linkedin.com/in/yashdoshi8" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yash Doshi" /></a>
 <a href="mailto:yash.doshi@tamu.edu"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&width=1000&section=footer)
