@@ -1,4 +1,6 @@
-# Hi there, I'm Yash Chetan Doshi! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&width=1000&section=header&text=Yash%20Chetan%20Doshi&fontSize=52&fontAlignY=38&animation=twinkling&fontColor=ffffff)
+
+# Hi there, I'm Yash! 👋
 
 I am a Master's student in **Management Information Systems** at **Texas A&M University** (Mays Business School). I am passionate about bridging the gap between technical engineering and business strategy.
 
