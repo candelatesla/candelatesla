@@ -6,16 +6,18 @@ Previously, I completed my B.Tech in **Information Technology** with Honors in *
 
 🚀 **Actively seeking Internship/Co-op roles for Summer 2026 in Data Analysis/Science, AI, and Business Analysis.**
 
-<p align="left">
-  <a href="https://drive.google.com/file/d/1HAn7TQ-zYaX9NtvLu8r8-ktZddX_2ACs/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📄_Resume-Download-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
-  </a>
-  <a href="https://www.linkedin.com/in/yashdoshi8">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://drive.google.com/file/d/127cEPUfcjvVIpeTXaAZMAQzyRTj2ztrY/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄_CV-Download-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
-  </a>
+<p align="left"> 
+  <a href="https://drive.google.com/file/d/1HAn7TQ-zYaX9NtvLu8r8-ktZddX_2ACs/view?usp=drive_link"> 
+    <img src="https://img.shields.io/badge/📄_Resume-View-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" /> 
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/yashdoshi8"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+  </a> 
+  
+  <a href="https://drive.google.com/file/d/127cEPUfcjvVIpeTXaAZMAQzyRTj2ztrY/view?usp=sharing"> 
+    <img src="https://img.shields.io/badge/📄_CV-View-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" /> 
+  </a> 
 </p>
 
 ---
