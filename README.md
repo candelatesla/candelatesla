@@ -9,6 +9,9 @@ Previously, I completed my B.Tech in **Information Technology** with Honors in *
 🚀 **Actively seeking Internship/Co-op roles for Summer 2026 in Data Analysis/Science, AI, and Business Analysis.**
 
 <p align="left"> 
+  <a href="https://yashdoshi.vercel.app/"> 
+    <img src="https://img.shields.io/badge/📄_Website-Go-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" /> 
+  </a> 
   <a href="https://drive.google.com/file/d/14SsQ5wOXrwJTv2QbPDvNTVInZJ9qBxxk/view?usp=drive_link"> 
     <img src="https://img.shields.io/badge/📄_Resume-View-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" /> 
   </a> 
