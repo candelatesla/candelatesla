@@ -7,6 +7,7 @@ I'm a Master's student in **Management Information Systems** at **Texas A&M Univ
 Previously completed my **B.Tech in Information Technology** (Honors in DevOps) at **D.J. Sanghvi College of Engineering**, graduating with a **3.96 GPA**.
 
  **Data Engineering Intern at Tesla · May – Dec 2026**
+ 
  **Graduating May 2027 · Open to Summer 2027 FTE roles in Data Engineering, Analytics & Applied AI**
 
 <p align="left"> 
