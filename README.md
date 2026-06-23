@@ -27,7 +27,7 @@ Previously completed my **B.Tech in Information Technology** (Honors in DevOps) 
 ### 🔭 Currently working as...
 * **Data Engineering Intern @ Tesla** · Palo Alto, CA · May 2026 - Present
 * **Full Stack Developer @ Texas A&M University** · Building student-facing and internal platforms
-* **Events Coordinator @ BITS Club, TAMU** · Business Information Technology Students
+* **President @ BITS Club, TAMU** · Business Information Technology Students
 
 ---
 
