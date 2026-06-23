@@ -6,7 +6,7 @@ I'm a Master's student in **Management Information Systems** at **Texas A&M Univ
 
 Previously completed my **B.Tech in Information Technology** (Honors in DevOps) at **D.J. Sanghvi College of Engineering**, graduating with a **3.96 GPA**.
 
- **Incoming Data Engineering Intern at Tesla · May – Dec 2026**
+ **Data Engineering Intern at Tesla · May – Dec 2026**
  **Graduating May 2027 · Open to Summer 2027 FTE roles in Data Engineering, Analytics & Applied AI**
 
 <p align="left"> 
@@ -24,7 +24,7 @@ Previously completed my **B.Tech in Information Technology** (Honors in DevOps) 
 ---
 
 ### 🔭 Currently working as...
-* **Incoming Data Engineering Intern @ Tesla** · Palo Alto, CA · Starting May 2026
+* **Data Engineering Intern @ Tesla** · Palo Alto, CA · Starting May 2026
 * **Full Stack Developer @ Texas A&M University** · Building student-facing and internal platforms
 * **Events Coordinator @ BITS Club, TAMU** · Business Information Technology Students
 
@@ -33,8 +33,7 @@ Previously completed my **B.Tech in Information Technology** (Honors in DevOps) 
 ### 💼 Professional Experience
 
 * **Data Engineering Intern @ Tesla** *(May – Dec 2026 · Palo Alto, CA)*
-  Joining Tesla's data engineering team to build and scale production-grade data pipelines and infrastructure.
-
+  
 * **Full Stack Developer @ Texas A&M University** *(Aug 2025 – Present · College Station, TX)*
   Building and shipping full-stack features for TAMU platforms using React, Node.js, and PostgreSQL — owning end-to-end delivery across UI, APIs, and data layers.
 
