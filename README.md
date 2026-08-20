@@ -172,14 +172,17 @@ Previously completed my **B.Tech in Information Technology with Honors in DevOps
 * ![LinkedIn](https://img.shields.io/badge/LinkedIn_Learning-AI_for_Project_Management-0077B5?style=flat-square&logo=linkedin&logoColor=white) **AI for Project Management**
 
 ---
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=candelatesla&show_icons=true&theme=radical" height="180" alt="Yash's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=candelatesla&theme=radical" width="95%" alt="GitHub Profile Details" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=candelatesla&layout=compact&theme=radical" height="180" alt="Yash's Top Languages" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=candelatesla&theme=radical" height="180" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=candelatesla&theme=radical" height="180" alt="Most Used Languages by Commit" />
 
 </div>
 
